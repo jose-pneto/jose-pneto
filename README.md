@@ -1,5 +1,8 @@
 ## Hi there 👋
-### Aqui começa sua jornada para o futuro 🚀
+#### Meu nome é José Neto, sou estudante de Engenharia de software e atualmente trabalho como técno de suporte em TI desde 2024.
+
+
+<!--### Aqui começa sua jornada para o futuro 🚀
 
 <!--
 **jose-pneto/jose-pneto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
