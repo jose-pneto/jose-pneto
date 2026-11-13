@@ -1,5 +1,5 @@
 ## Hi there 👋
-#### Meu nome é José Neto, sou estudante de Engenharia de software e atualmente trabalho como técno de suporte em TI desde 2024.
+#### Meu nome é José Neto, sou estudante de Analise e desenvolvimento de software e atualmente trabalho como Analista de Testes desde 2026.
 
 
 <!--### Aqui começa sua jornada para o futuro 🚀
